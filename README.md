@@ -2,6 +2,7 @@
 GradientTextureGenerator
 
 유니티 에디터에서 사용할 수 있는 그라디언트 텍스처 생성기
+
 <img width="527" height="738" alt="image" src="https://github.com/user-attachments/assets/0aaa4c69-ec0e-44af-829a-21cefd8b128e" />
 
 
