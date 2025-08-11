@@ -6,7 +6,7 @@ GradientTextureGenerator
 <img width="527" height="738" alt="image" src="https://github.com/user-attachments/assets/0aaa4c69-ec0e-44af-829a-21cefd8b128e" />
 
 
-###주요 기능
+### 주요기능
 1. 그라디언트 방향 제어
 - 선형: 0-360도 자유로운 방향 설정
 - 원형: 중심에서 바깥으로 퍼지는 그라디언트
