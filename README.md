@@ -37,7 +37,8 @@
 ### AutoKeystoreSHAExtractor
 Unity 프로젝트용 Android 키스토어 SHA 핑거프린트 자동 추출 도구
 
-<img width="387" height="576" alt="image" src="https://github.com/user-attachments/assets/f4e1529a-5767-4c8e-be26-57ef94cfb6fa" />
+<img width="661" height="589" alt="image" src="https://github.com/user-attachments/assets/5cff8aed-7886-464b-84fe-a90f6fc249c7" />
+
 
 Firebase Authentication 설정 시 필요한 SHA1/SHA256 해시값을 쉽고 빠르게 추출할 수 있는 Unity Editor 확장 도구입니다.
 
@@ -73,4 +74,10 @@ Dev Only / Test Only / Prod Only: 개별 환경 처리
 - Firebase Console 버튼으로 Firebase로 이동
 
 ### EnvBuildManager
+Unity 환경별 Firebase 포함 Andorid 종속성 해결 /Addressable 환경 설정 자동설정 후 빌드 해주는 에디터 확장 도구입니다. 
+
+<img width="387" height="576" alt="image" src="https://github.com/user-attachments/assets/46bba639-e946-457d-b18f-82f51e47b26e" />
+
+
+
 ### EnvSwitcher
