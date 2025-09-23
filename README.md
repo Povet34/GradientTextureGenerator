@@ -40,6 +40,7 @@ Unity 프로젝트용 Android 키스토어 SHA 핑거프린트 자동 추출 도
 <img width="387" height="576" alt="image" src="https://github.com/user-attachments/assets/f4e1529a-5767-4c8e-be26-57ef94cfb6fa" />
 
 Firebase Authentication 설정 시 필요한 SHA1/SHA256 해시값을 쉽고 빠르게 추출할 수 있는 Unity Editor 확장 도구입니다.
+
 ✨ 주요 기능
 - Keytool 자동 탐색: Unity 설치 경로에서 keytool.exe를 자동으로 찾습니다
 - 다중 환경 지원: Development, Test, Production 환경을 동시에 처리
