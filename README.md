@@ -88,3 +88,13 @@ Unity 환경별 Firebase 포함 Andorid 종속성 해결 /Addressable 환경 설
 1. Runtime/Editor Mode 둘 다 가능한 Shader 및 RenderingMode 변경가능한 Tool
 
 <img width="1183" height="854" alt="image" src="https://github.com/user-attachments/assets/ec9ff874-c9fa-4b64-83eb-71e4dca13549" />
+
+
+
+
+### Object Profiler
+1. 선택된 오브젝트의 전체적인 메시 정보
+2. 사용중인 셰이더 정보
+3. 지정된 카메라로부터의 DrawCall 빈도
+
+<img width="890" height="645" alt="image" src="https://github.com/user-attachments/assets/a42fe19c-f2c1-47b0-b105-48ee696c9ad8" />
